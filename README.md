@@ -14,9 +14,7 @@ The design is verified using a **testbench** that simulates time progression and
 ## 📂 Project Structure
 ```
 digital_clock/
-├── clockDivider.v   # Clock divider module
 ├── digitalClock.v   # Main digital clock logic
-├── testbench.v      # Testbench for simulation
 └── README.md        # Documentation
 ```
 
