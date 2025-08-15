@@ -61,15 +61,7 @@ digital_clock/
 
 ---
 
-### 3️⃣ `testbench`
-- **Purpose:** Simulates the clock behavior and manual adjustments.
-- **Features:**
-  - Resets the clock.
-  - Runs in **12-hour format** initially.
-  - Switches to **manual set mode** to modify hours.
-  - Displays time updates in simulation output.
 
----
 
 ## ▶️ Simulation
 1. Use **Icarus Verilog** or any Verilog simulator:
